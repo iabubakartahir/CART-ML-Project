@@ -1,0 +1,15 @@
+numpy 
+
+pandas 
+
+matplotlib
+
+seaborn 
+
+scipy 
+
+ipython
+ 
+statsmodels
+
+scikit-learn
