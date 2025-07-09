@@ -2,6 +2,9 @@
 
 This project explores Classification and Regression Tree (CART) algorithms using Python's Scikit-Learn library. It implements both classification and regression modeling using decision trees and random forests.
 
+![CART Algorithm Exploration and Evaluation - visual selection](https://github.com/user-attachments/assets/92dac774-e27b-4c76-a531-b147f4ce46c5)
+
+
 ## 👥 Authors
 
 - Ahmad Mukhtar
