@@ -112,6 +112,7 @@ The notebook includes comprehensive visualizations:
 - Outlier detection plots
 - Sample digits visualization
 
+![CART Algorithm Exploration and Evaluation - visual selection (1)](https://github.com/user-attachments/assets/5c9fbc2f-dbe9-42dc-81b1-2cdd2fa18b67)
 ## 🚀 Getting Started
 
 1. Clone this repository
