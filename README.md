@@ -1,4 +1,4 @@
- # CART Machine Learning Project
+# CART Machine Learning Project
 
 This project explores Classification and Regression Tree (CART) algorithms using Python's Scikit-Learn library. It implements both classification and regression modeling using decision trees and random forests.
 
